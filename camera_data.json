@@ -1,0 +1,34 @@
+{
+  "camera nova": [
+    { "keyframes": [], "segments": [], "interpolators": [] },
+    {
+      "keyframes": [
+        {
+          "time": 1,
+          "properties": {
+            "camera:rotation": [89.44378, 17.529877, 0.0],
+            "camera:position": [
+              2722.303568793254, -44.27887866507315, 7779.5263137150905
+            ]
+          }
+        },
+        {
+          "time": 10060,
+          "properties": {
+            "camera:rotation": [89.51817, 20.356785, 0.0],
+            "camera:position": [
+              2722.303568793254, -38.99600799988055, 7779.5263137150905
+            ]
+          }
+        }
+      ],
+      "segments": [0],
+      "interpolators": [
+        {
+          "type": { "type": "catmull-rom-spline", "alpha": 0.5 },
+          "properties": ["camera:rotation", "camera:position"]
+        }
+      ]
+    }
+  ]
+}

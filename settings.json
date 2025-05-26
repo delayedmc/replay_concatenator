@@ -1,0 +1,5 @@
+{
+	"base_name": "rendered videos basename",
+	"output_render_dir": "Insert the full path of the folder where Replay Mod will save the rendered videos. Example: C:/user/Desktop/replay_mod_renders",
+	"use_python_zip": false
+}
